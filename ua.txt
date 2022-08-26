@@ -1,3 +1,376 @@
+Opera/9.27	
+Opera/9.80 (Windows NT 6.1 Presto/2.12.388 Version/41.0.1	
+Opera/9.80 (Windows NT 6.2 Presto/2.12.388 Version/41.0.1	
+HTC_Touch_Diamond2_T5353 Opera/9.7 (Windows NT 5.1; U; ru)	
+opera/8.01+(j2me/midp;+opera+mini/2.0.4062;+en;+U;+ssr	
+OperaMini(_NIKITA_;Opera Mini/4.4.32206;en-GB)	
+Opera/10.0(Commodore;N;DR-DOS2.2.13;8088;rv1.8.4)Presto/20070518Spaceshark/0.7	
+HTC_Touch_HD_T8282 Opera/9.50 (Windows NT 5.1; U; pt)	
+Opera/51 Andriod	
+HTC_HD2_T8585 Opera/9.7 (Windows NT 5.1; U; ru)	
+OperaMini(MAUI_MRE;Opera Mini/4.4.33576;en)	
+Opera/9.00 (Wii; U; ; 1038-58; Wii Shop Channel/1.0; en)	
+Opera/11.6	
+Opera/11.5	
+Opera/9.80 (Window NT 6.2; Win64; x64) Presto/2.12.388 Version/12.16	
+Opera/9.15	
+Opera/5.02 (Macintosh; U; id)	
+HTC_HD2_T8585 Opera/9.7 (Windows NT 5.1; U; en)	
+HTC_HD2_T8585 Opera/9.70 (Windows NT 5.1; U; de)	
+Opera/9.80 (Linux mips ; U; HbbTV/1.1.1 Presto/2.6.33 Version/10.70	
+OperaMini(Fucus/Unknown;Opera Mini/4.4.33576;en)	
+Opera Mini 4	
+Opera/9.80 (; WOW64; U; ru) Presto/2.10.229 Version/11.62
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/163.89; U; ru) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/83.102; U; pt) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/90.140; U; pt) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/87.4; U; pt) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/75.35; U; pt) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/79.13; U; pt) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/93.110; U; pt) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/107.62; U; pt) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/95.109; U; pt) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/76.171; U; pt) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/85.73; U; pt) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/90.140; U; ru) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/65.257; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/90.169; U; ru) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/98.18; U; ru) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/90.176; U; ru) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/95.109; U; ru) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/93.110; U; ru) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/93.110; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/93.131; U; ru) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/95.90; U; ru) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.0.0/95.90; U; ru) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/79.6; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/60.313; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/60.271; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/59.297; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/58.172; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/58.167; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/37.9389; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/37.9339; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/37.9311; U; es) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/37.9285; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/37.9224; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/37.9311; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/37.9178; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/37.9178; U; es) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/37.9178; U; cs) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/37.9093; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/37.9154; U; pl) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/37.8993; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/37.8949; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/37.8923; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/37.8861; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/37.8773; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/37.8841; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.1.0/37.8717; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.0.0/71.132; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.0.0/37.9154; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.0.0/37.9143; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (Windows Phone; Opera Mini/9.0.0/37.8773; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (BlackBerry; Opera Mini/5.1.22303/22.387; U; en) Presto/2.5.25 Version/10.54	 
+Opera/9.80 (BlackBerry; Opera Mini/4.5.33868/191.212; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35667/170.54; U; tr) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35667/163.89; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35659/163.89; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/4.5.33868/90.176; U; en-US) Presto/2.12.423 Version/12.18	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35659/75.35; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35659/87.4; U; pt) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35659/90.140; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/7.6.88806/93.131; U; ru) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35659/95.90; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35659/95.90; U; ru) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35659/90.169; U; ru) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35667/66.318; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/4.5.33868/90.176; U; ru) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/7.6.40234/90.176; U; ru) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35667/67.440; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35659/67.386; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/7.6.40234/95.90; U; ru) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35678/37.8949; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35678/37.8923; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35678/37.8314; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35678/35.6680; U; en) Presto/2.8.119 Version/11.10	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35667/69.162; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35667/66.247; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35667/60.271; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35667/59.323; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35667/57.135; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35667/37.9285; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35667/37.9261; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35667/37.9224; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35667/37.9093; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35667/37.9178; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35667/37.9031; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35667/37.8993; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35667/37.8923; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35667/37.8861; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35667/37.8827; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35667/37.8841; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35667/37.8814; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35667/37.8762; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35667/37.8773; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35667/37.8743; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35667/37.8678; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35667/37.8717; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35667/37.8625; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35667/37.8507; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35667/37.8603; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35667/37.8474; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (BlackBerry; Opera Mini/8.0.35667/37.8380; U; en) Presto/2.12.423 Version/12.16
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.1.22296/22.87; U; en) Presto/2.5.25	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.0/22.401; U; en) Presto/2.5.25 Version/10.54	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/8.0.35626/191.273; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0 (Windows NT 6.1; WOW64) AppleWebKit/23.411; U; en) Presto/2.5.25 Version/10.54	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.13400/20.2485; U; zh) Presto/2.5.25	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.0.8462/19.916; U; en) Presto/2.5.25	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.1.15082/870; U; en) Presto/2.4.15	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.1.15082/191.268; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.13265/870; U; ro) Presto/2.4.15	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.3521/886; U; en) Presto/2.4.15	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.19693Mod.by.Handler/18.794; U; id) Presto/2.4.15	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.1.21051/27.1573; U; en) Presto/2.8.119 Version/11.10	 
+Opera/9.60 (J2ME/MIDP;Opera Mini/4.2.15410Mod.by.Handler/503; U; en)Presto/2.2.0	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.0.423 Profile/18.684; U; en) Presto/2.4.15	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.1.11321/24.871; U; en) Presto/2.5.25 Version/10.54	 
+Opera/9.50 (J2ME/MIDP; Opera Mini/4.2.15410Mod.by.Handler/20.2590; U; en)	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.14881Mod.by.Handler/23.317; U; id) Presto/2.5.25 Version/10.54	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.19693Mod.by.Handler/23.390; U; en) Presto/2.5.25 Version/10.54	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.18887/22.478; U; id) Presto/2.5.25 Version/10.54	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0 (BlackBerry; U; BlackBerry 9800) AppleWebKit/24.783; U; es) Presto/2.5.25 Version/10.54	 
+Opera/9.80(J2ME/MIDP; Opera Mini/5.1.21214/22.414; U; en) Presto/2.5.25 Version/10.54	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/Nokia2730c-1/22.478; U; en) Presto/2.5.25 Version/10.54	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.16823/870; U; en) Presto/2.4.15	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.14912/35.5706; U; id) Presto/2.8.119 Version/11.10	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.15410QUAIN/22.478; U; en) Presto/2.5.25 Version/10.54	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.18741/870; U; en) Presto/2.4.15	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.4.29476/27.1573; U; id) Presto/2.8.119 Version/11.10	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2 19.42.55/19.892; U; en) Presto/2.5.25	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.19683/1278; U; ko) Presto/2.2.0	 
+Opera/9.50 (J2ME/MIDP; Opera Mini/5.1.21965/20.2513; U; en)	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.1.21214/22.387; U; id) Presto/2.5.25 Version/10.54	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.0.10247/19.916; U; en) Presto/2.5.25	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.0 (compatible; MSIE 5.0; UNIX) Opera 6.12 [en]/24.838; U; en) Presto/2.5.25 Version/10.54	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.13221/870; U; en) Presto/2.4.15	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.22349/37.6584; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/22.478; U; en) Presto/2.5.25 Version/10.54	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.13918/191.262; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.15410Mod.by.Handler/22.401; U; en) Presto/2.5.25 Version/10.54	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.18061/27.1407; U; en) Presto/2.8.119 Version/11.10	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.13057/870; U; ja) Presto/2.4.15	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.0.351 Profile/22.478; U; en) Presto/2.5.25 Version/10.54	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.0 (iPad; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/23.411; U; en) Presto/2.5.25 Version/10.54	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.1.15082/25.677; U; vi) Presto/2.5.25 Version/10.54	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.15410Mod.by.Handler/20.2485; U; en) Presto/2.5.25	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.16320/29.3594; U; en) Presto/2.8.119 Version/11.10	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0 (iPhone; U; fr; CPU iPhone OS 4_2_1 like Mac OS X; fr) AppleWebKit/23.405; U; en) Presto/2.5.25 Version/10.54	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.17443/886; U; en) Presto/2.4.15	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.24721/191.256; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.16823/1428; U; en) Presto/2.2.0	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0 (Windows; U; Windows NT 5.1; en) AppleWebKit/886; U; en) Presto/2.4.15	 
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/191.269; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/191.265; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/191.262; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/191.250; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39001/191.243; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/191.218; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/191.212; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39014/189.71; U; fr) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/189.71; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/189.67; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/187.21; U; fr) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/6.1.27412/184.121; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/184.121; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/182.104; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/179.156; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.32206/179.156; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39016/179.147; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/6.1.27412/176.161; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/176.161; U; ar) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39014/170.67; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39001/170.67; U; ta) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39016/170.67; U; ru) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39001/170.67; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39001/170.58; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/170.67; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.32206/170.58; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/170.58; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39012/170.58; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39012/170.58; U; ru) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39012/170.58; U; id) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39014/170.58; U; fr) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39016/170.58; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.32206/170.58; U; es) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39010/170.58; U; ru) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39012/170.58; U; az) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/170.58; U; fr) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33792/170.58; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39014/170.58; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/6.1.27412/170.58; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39016/170.58; U; ru) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39001/170.54; U; fa) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39001/170.54; U; uk) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39014/170.54; U; id) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/170.54; U; fr) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39012/170.54; U; ru) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/170.54; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39016/170.54; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39016/170.54; U; ru) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.32206/170.51; U; ru) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39001/170.51; U; uk) Presto/2.12.423 Version/12.16
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.1.22296/22.87; U; en) Presto/2.5.25	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.0/22.401; U; en) Presto/2.5.25 Version/10.54	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/8.0.35626/191.273; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0 (Windows NT 6.1; WOW64) AppleWebKit/23.411; U; en) Presto/2.5.25 Version/10.54	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.13400/20.2485; U; zh) Presto/2.5.25	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.0.8462/19.916; U; en) Presto/2.5.25	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.1.15082/870; U; en) Presto/2.4.15	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.1.15082/191.268; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.13265/870; U; ro) Presto/2.4.15	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.3521/886; U; en) Presto/2.4.15	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.19693Mod.by.Handler/18.794; U; id) Presto/2.4.15	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.1.21051/27.1573; U; en) Presto/2.8.119 Version/11.10	 
+Opera/9.60 (J2ME/MIDP;Opera Mini/4.2.15410Mod.by.Handler/503; U; en)Presto/2.2.0	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.0.423 Profile/18.684; U; en) Presto/2.4.15	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.1.11321/24.871; U; en) Presto/2.5.25 Version/10.54	 
+Opera/9.50 (J2ME/MIDP; Opera Mini/4.2.15410Mod.by.Handler/20.2590; U; en)	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.14881Mod.by.Handler/23.317; U; id) Presto/2.5.25 Version/10.54	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.19693Mod.by.Handler/23.390; U; en) Presto/2.5.25 Version/10.54	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.18887/22.478; U; id) Presto/2.5.25 Version/10.54	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0 (BlackBerry; U; BlackBerry 9800) AppleWebKit/24.783; U; es) Presto/2.5.25 Version/10.54	 
+Opera/9.80(J2ME/MIDP; Opera Mini/5.1.21214/22.414; U; en) Presto/2.5.25 Version/10.54	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/Nokia2730c-1/22.478; U; en) Presto/2.5.25 Version/10.54	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.16823/870; U; en) Presto/2.4.15	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.14912/35.5706; U; id) Presto/2.8.119 Version/11.10	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.15410QUAIN/22.478; U; en) Presto/2.5.25 Version/10.54	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.18741/870; U; en) Presto/2.4.15	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.4.29476/27.1573; U; id) Presto/2.8.119 Version/11.10	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2 19.42.55/19.892; U; en) Presto/2.5.25	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.19683/1278; U; ko) Presto/2.2.0	 
+Opera/9.50 (J2ME/MIDP; Opera Mini/5.1.21965/20.2513; U; en)	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.1.21214/22.387; U; id) Presto/2.5.25 Version/10.54	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.0.10247/19.916; U; en) Presto/2.5.25	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.0 (compatible; MSIE 5.0; UNIX) Opera 6.12 [en]/24.838; U; en) Presto/2.5.25 Version/10.54	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.13221/870; U; en) Presto/2.4.15	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.22349/37.6584; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/22.478; U; en) Presto/2.5.25 Version/10.54	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.13918/191.262; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.15410Mod.by.Handler/22.401; U; en) Presto/2.5.25 Version/10.54	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.18061/27.1407; U; en) Presto/2.8.119 Version/11.10	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.13057/870; U; ja) Presto/2.4.15	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.0.351 Profile/22.478; U; en) Presto/2.5.25 Version/10.54	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.0 (iPad; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/23.411; U; en) Presto/2.5.25 Version/10.54	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.1.15082/25.677; U; vi) Presto/2.5.25 Version/10.54	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.15410Mod.by.Handler/20.2485; U; en) Presto/2.5.25	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.16320/29.3594; U; en) Presto/2.8.119 Version/11.10	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0 (iPhone; U; fr; CPU iPhone OS 4_2_1 like Mac OS X; fr) AppleWebKit/23.405; U; en) Presto/2.5.25 Version/10.54	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.17443/886; U; en) Presto/2.4.15	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2.24721/191.256; U; en) Presto/2.12.423 Version/12.16	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.16823/1428; U; en) Presto/2.2.0	 
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0 (Windows; U; Windows NT 5.1; en) AppleWebKit/886; U; en) Presto/2.4.159
+Opera/9.80 (iPhone; Opera Mini/5.0.019802/886; U; en) Presto/2.4.15	 
+Opera/9.80 (J2ME/iPhone;Opera Mini/5.0.019802/886; U; ja) Presto/2.4.15	 
+Opera/9.80 (J2ME/iPhone;Opera Mini/5.0.019802/886; U; ja)Presto/2.4.15	 
+Opera/9.80 (iOS; Opera Mini/7.0.73345/28.2555; U; ru) Presto/2.10.229 Version/11.62	 
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) OPT/2.4.3 Mobile/15E148	 
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) OPT/2.4.4 Mobile/15E148	 
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) OPT/2.4.4 Mobile/15E148	 
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) OPT/2.2.0 Mobile/15E148	 
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) OPT/2.4.3 Mobile/15E148	 
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) OPT/2.4.1 Mobile/15E148	 
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) OPT/2.2.1 Mobile/15E148	 
+Opera/9.80 (iPad; Opera Mini/7.0.5/170.58; U; ru) Presto/2.12.423 Version/12.16	  
+Mozilla/5.0 (iPad; CPU OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) OPiOS/16.0.12.122038 Mobile/16B92 Safari/9537.53	  
+Opera/9.80 (iPad; Opera Mini/16.0.15/170.58; U; en) Presto/2.12.423 Version/12.16	  
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) OPiOS/16.0.14.122053 Mobile/15E148 Safari/9537.53	 
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Coast/5.04.110603 Mobile/15E148 Safari/7534.48.3	 
+Opera%20Coast/5.03.102982 CFNetwork/1126 Darwin/19.5.0	 
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Coast/5.03.102982 Mobile/15E148 Safari/7534.48.3	 
+Opera/9.80 (iPad; Opera Mini/7.0.3/170.58; U; ru) Presto/2.12.423 Version/12.16	  
+Mozilla/5.0 (iPad; CPU OS 12_4_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) OPiOS/16.0.14.122053 Mobile/15E148 Safari/9537.53	  
+Opera/9.80 (iPhone; Opera Mini/7.0.5/170.58; U; ru) Presto/2.12.423 Version/12.16	 
+Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) OPiOS/16.0.15.124050 Mobile/13B143 Safari/9537.53	  
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) OPT/2.2.1 Mobile/15E148	 
+Opera/9.80 (iPad; Opera Mini/16.0.15/170.58; U; ru) Presto/2.12.423 Version/12.16	  
+Opera/9.80 (iPad; Opera Mini/7.0.1/170.58; U; ru) Presto/2.12.423 Version/12.16	  
+Mozilla/5.0 (iPad; CPU OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) OPiOS/14.0.0.104835 Mobile/12B410 Safari/9537.53	  
+Mozilla/5.0 (iPad; CPU OS 12_4_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) OPiOS/16.0.12.122038 Mobile/15E148 Safari/9537.53	  
+Opera/9.80 (iPad; Opera Mini/16.0.14/170.54; U; ru) Presto/2.12.423 Version/12.16	  
+Mozilla/5.0 (iPad; CPU OS 13_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) OPiOS/16.0.15.124050 Mobile/15E148 Safari/9537.53	  
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) OPT/1.11.1 Mobile/15E148	 
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) OPT/2.2.1 Mobile/15E148	 
+Opera/9.80 (iPhone; Opera Mini/7.0.5/163.93; U; ru) Presto/2.12.423 Version/12.16	 
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_3 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) OPiOS/16.0.14.122053 Mobile/15A432 Safari/9537.53	 
+Mozilla/5.0 (iPad; CPU OS 10_0_1 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) OPiOS/16.0.14.122053 Mobile/14A403 Safari/9537.53	  
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) OPiOS/10.2.0.93022 Mobile/11D257 Safari/9537.53	 
+Opera/9.80 (iPad; Opera Mini/7.0.5/37.9433; U; ru) Presto/2.12.423 Version/12.16	  
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) OPT/2.2.1 Mobile/15E148	 
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) OPT/2.2.1 Mobile/15E148	 
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) OPT/2.2.1 Mobile/15E148	 
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) OPT/2.2.1 Mobile/15E302	 
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) OPT/2.2.1 Mobile/15E148	 
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) OPT/2.2.1 Mobile/15E148	 
+Opera/9.80 (iPhone; Opera Mini/16.0.15/163.89; U; en) Presto/2.12.423 Version/12.16	 
+Mozilla/5.0 (iPad; CPU OS 13_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) OPiOS/16.0.14.122053 Mobile/15E148 Safari/9537.53	  
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) OPiOS/16.0.15.124050 Mobile/15E148 Safari/9537.53	 
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) OPT/2.1.0 Mobile/15G77	 
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) OPT/2.2.1 Mobile/15E148	 
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) OPT/2.2.0 Mobile/15E148	 
+Mozilla/5.0 (iPhone; CPU iPhone OS 99_9 like Mac OS X) AppleWebKit/999.9.99 (KHTML, like Gecko) OPiOS/99.9.9.999999 Mobile/88J104 Safari/9999.99	 
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) OPT/2.0 Mobile/15E148	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/191.269; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/191.265; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/191.262; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/191.250; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39001/191.243; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/191.218; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/191.212; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39014/189.71; U; fr) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/189.71; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/189.67; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/187.21; U; fr) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/6.1.27412/184.121; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/184.121; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/182.104; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/179.156; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.32206/179.156; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39016/179.147; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/6.1.27412/176.161; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/176.161; U; ar) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39014/170.67; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39001/170.67; U; ta) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39016/170.67; U; ru) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39001/170.67; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39001/170.58; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/170.67; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.32206/170.58; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/170.58; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39012/170.58; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39012/170.58; U; ru) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39012/170.58; U; id) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39014/170.58; U; fr) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39016/170.58; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.32206/170.58; U; es) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39010/170.58; U; ru) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39012/170.58; U; az) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/170.58; U; fr) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33792/170.58; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39014/170.58; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/6.1.27412/170.58; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39016/170.58; U; ru) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39001/170.54; U; fa) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39001/170.54; U; uk) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39014/170.54; U; id) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/170.54; U; fr) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39012/170.54; U; ru) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/170.54; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39016/170.54; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39016/170.54; U; ru) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.32206/170.51; U; ru) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39001/170.51; U; uk) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/36.2.2254/119.132; U; id) Presto/2.12.423 Version/12.16)
 Opera/9.80 (Android; Opera Mini/36.2.2254/119.132; U; id) Presto/2.12.423 Version/12.16
 Opera Mini 9.80
